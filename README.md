@@ -19,7 +19,7 @@ This project presents a case study on **Myntra**, India’s leading online fashi
 2. **Semantic Search & Smart Filters** – Natural language search, visual catalogs, and influencer edits.  
 3. **Trust Signals** – Verified reviews, trust badges, and transparent seller information.  
 
-## 🛠 Tech Stack (Suggested)
+##  Tech Stack (Suggested)
 - **Python, Pandas, Numpy** – Data analysis  
 - **Scikit-learn, TensorFlow/PyTorch** – ML models (CNN, LDA/NMF, time-series forecasting)  
 - **ArcGIS Pro** – Geospatial analytics (for future extensions)  
