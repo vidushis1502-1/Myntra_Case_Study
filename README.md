@@ -19,12 +19,6 @@ This project presents a case study on **Myntra**, India’s leading online fashi
 2. **Semantic Search & Smart Filters** – Natural language search, visual catalogs, and influencer edits.  
 3. **Trust Signals** – Verified reviews, trust badges, and transparent seller information.  
 
-##  Tech Stack (Suggested)
-- **Python, Pandas, Numpy** – Data analysis  
-- **Scikit-learn, TensorFlow/PyTorch** – ML models (CNN, LDA/NMF, time-series forecasting)  
-- **ArcGIS Pro** – Geospatial analytics (for future extensions)  
-- **Socket.IO** – Real-time trend data pipeline  
-
 ##  Future Prospects
 - Sustainable fashion through resale/upcycling initiatives.  
 - Smarter inventory management using demand forecasting.  
